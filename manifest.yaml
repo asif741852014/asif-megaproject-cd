@@ -134,7 +134,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: asif1998/megaproject:version1
+        image: asif1998/megaproject:version2
         resources:
           requests:
             memory: "256Mi"
